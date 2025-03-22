@@ -1,0 +1,6 @@
+print ("Hello World")
+idade = 11
+if idade < 18:
+   print("Va trabalhar vagabundo kkkkkkjkjkjjjkkk")
+if not idade <= 18:
+   print("Pode beber caraikkkkkkk")
